@@ -102,27 +102,27 @@ pnpm run dev
 
 🔒 Security Highlights
 
-Passwords are hashed using bcrypt
+- Passwords are hashed using bcrypt
 
-JWT tokens signed with secret key
+- JWT tokens signed with secret key
 
-Role-based access control for Admin endpoints
+- Role-based access control for Admin endpoints
 
-Input validation with Zod for every request
+- Input validation with Zod for every request
 
-Safe database operations via Prisma transactions
+- Safe database operations via Prisma transactions
 
 💡 Future Enhancements
 
-Product image uploads (Cloudinary or S3)
+- Product image uploads (Cloudinary or S3)
 
-Caching (Redis) for product listings
+- Caching (Redis) for product listings
 
-Rate limiting with express-rate-limit
+- Rate limiting with express-rate-limit
 
-Order status updates (Admin panel)
+- Order status updates (Admin panel)
 
-API documentation via Swagger
+- API documentation via Swagger
 
 ------------------------------------------------------------------------
 
