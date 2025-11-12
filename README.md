@@ -3,7 +3,8 @@
 A scalable and cleanly architected backend API for an E-commerce Platform, built with Express.js, TypeScript, and Prisma ORM connected to Supabase (PostgreSQL).
 Implements JWT authentication, role-based authorization, Zod validation, transactions, and RESTful endpoints for managing users, products, and orders.
 
-=============================================
+-----------------------------------------------------------------------
+
 🚀 Features
 
 
@@ -51,7 +52,7 @@ Uses Prisma transactions for atomic updates
 
 GET /orders – View logged-in user's order history
 
-================================================================
+--------------------------------------------------------------
 
 ⚙️ Setup Instructions
 
@@ -97,7 +98,7 @@ pnpm run dev
 
 ```
 
-=============================================
+-------------------------------------------------------------
 
 🔒 Security Highlights
 
@@ -123,10 +124,10 @@ Order status updates (Admin panel)
 
 API documentation via Swagger
 
-=========================================
+------------------------------------------------------------------------
 
 👨‍💻 Author
 
 Fanual Asfaw
-Full Stack / Blockchain Developer
-Built with ❤️ using TypeScript, Express, Supabase(Posgres) and Prisma.
+- Full Stack / Blockchain Developer
+- Built with ❤️ using TypeScript, Express, Supabase(Posgres) and Prisma.
