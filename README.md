@@ -8,7 +8,7 @@ Implements JWT authentication, role-based authorization, Zod validation, transac
 🚀 Features
 
 
-🧑‍💻 Authentication
+-🧑‍💻 Authentication
 
 Register and login with strong password policies
 
@@ -18,7 +18,7 @@ JWT-based authentication
 
 Role-based access (USER / ADMIN)
 
-👥 User Management
+-👥 User Management
 
 GET /users/me – Get current user profile
 
@@ -28,7 +28,7 @@ GET /users/:id – Fetch specific user (Admin only)
 
 DELETE /users/:id – Delete a user (Admin only)
 
-🛍️ Product Management
+-🛍️ Product Management
 
 POST /products – Create a product (Admin only)
 
@@ -40,7 +40,7 @@ GET /products – Paginated + searchable product listing (Public)
 
 GET /products/:id – Product details (Public)
 
-🧾 Orders
+-🧾 Orders
 
 POST /orders – Place new order (User only)
 
@@ -130,4 +130,4 @@ API documentation via Swagger
 
 Fanual Asfaw
 - Full Stack / Blockchain Developer
-- Built with ❤️ using TypeScript, Express, Supabase(Posgres) and Prisma.
+- Built with ❤️ using TypeScript, Express, Supabase(Postgres) and Prisma.
